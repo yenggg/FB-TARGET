@@ -5,7 +5,7 @@ Easily
 
 ### ScreenShot
 
-<img src="https://raw.githubusercontent.com/nfs-tech-bd/FB-TARGET/main/PicsArt_04-25-09.18.28.jpg">
+<img src="https://www.facebook.com/profile.php?id=61558207025920">
 
 ### Termux Commands
 
@@ -24,7 +24,7 @@ Easily
 
 * `git clone http://github.com/nfs-tech-bd/FB-TARGET`
 
-* `cd FB-TARGET`
+* `cd https://www.facebook.com/profile.php?id=61558207025920`
 
 * `python2 FB-TARGET.py`
 
