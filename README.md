@@ -5,7 +5,7 @@ Easily
 
 ### ScreenShot
 
-<img src="https://raw.githubusercontent.com/nfs-tech-bd/FB-TARGET/main/PicsArt_04-25-09.18.28.jpg">
+<img src="https://www.facebook.com/profile.php?id=61558207025920">
 
 ### Termux Commands
 
@@ -30,4 +30,4 @@ Easily
 
 ### For Wordlist Making Tool
 
-<a href="http://github.com/nfs-tech-bd/WORDLIST">NFS-TECH-BD Wordlist Tool</a>
+<a href="https://www.facebook.com/profile.php?id=61558207025920">NFS-TECH-BD Wordlist Tool</a>
